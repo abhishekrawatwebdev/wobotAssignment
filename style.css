@@ -9,11 +9,15 @@
 
 body {
     background-color: rgba(249, 249, 249, 1);
+
 }
 
 section {
     padding: 20px;
     background-color: rgba(249, 249, 249, 1);
+    background-image: url('images/background.svg');
+    background-position: -82px 107%;
+
 
 }
 
@@ -146,6 +150,11 @@ section {
 
     .input-section {
         width: 50vw;
+    }
+
+    section {
+        background-position: -210px 86%;
+        ;
     }
 }
 
