@@ -19,7 +19,7 @@ section {
 
 .logo img {
     width: 160px;
-    height: 36.02px;
+    height: 30px;
 }
 
 .modal {
@@ -29,20 +29,20 @@ section {
     margin: auto;
     display: flex;
     flex-direction: column;
-    margin-top: 3%;
+    margin-top: 1%;
     padding: 20px;
     box-shadow: 4px 4px 20px rgba(157, 157, 157, 0.12);
     border-radius: 15px;
 }
 
 .modal h2 {
-    font-size: 26px;
+    font-size: 24px;
     font-weight: bolder;
 }
 
 .modal p {
-    font-size: 15px;
-    margin-top: 10px;
+    font-size: 14px;
+    margin-top: 5px;
 }
 
 .input-section label,
