@@ -11,3 +11,8 @@ for (let i = 0; i < sizes.length; i++) {
 
     })
 }
+
+let submitBtn = document.getElementById("submit-btn");
+submitBtn.addEventListener('click', () => {
+    submitBtn.classList.add("submitted");
+})
